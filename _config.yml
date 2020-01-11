@@ -22,7 +22,7 @@ title: Steal this Repo
 email: boris@bmannconsulting.com
 description: "Starter repo for using GitHub Pages with Jekyll IndieWeb theme"
 baseurl: "/jekyll-indieweb-demo" # the subpath of your site, e.g. /blog
-# url: "https://projects.bmannconsulting.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://projects.bmannconsulting.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bmann
 github_username:  bmann
 
